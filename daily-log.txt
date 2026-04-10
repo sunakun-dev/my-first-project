@@ -2,3 +2,9 @@
 
 This is my first GitHub project.
 I started learning programming today.
+Day 1:
+I created my GitHub account.
+I uploaded my first file.
+
+Day 2:
+I practiced editing files.
