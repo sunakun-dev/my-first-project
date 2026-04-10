@@ -8,3 +8,6 @@ I uploaded my first file.
 
 Day 2:
 I practiced editing files.
+Day 3:
+I learned how to edit files on GitHub.
+I feel happy.
