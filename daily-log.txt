@@ -14,3 +14,6 @@ I feel happy.
 Day 3 (after lunch):
 I studied GitHub at university.
 I ate lunch and feel relaxed.
+Day 3 (PC edit):
+I edited this file on my computer.
+This is my first real Git operation.
