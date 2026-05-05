@@ -19,7 +19,7 @@ I edited this file on my computer.
 This is my first real Git operation.
 
 Day4：I　practiced Github today.
-Day5: i want to live in Toronto someday.
+Day5: I want to live in Toronto someday.
 
 
 
