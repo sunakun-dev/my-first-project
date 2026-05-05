@@ -21,7 +21,7 @@ This is my first real Git operation.
 Day4：I　practiced Github today.
 Day5: I want to live in Toronto someday.
 Day 5: I studied GitHub and wrote a daily log.
-
+Day 6: I did Duolingo listening and drank water.
 
 
 
